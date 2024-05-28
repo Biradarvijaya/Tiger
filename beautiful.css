@@ -1,0 +1,57 @@
+*{
+    padding: auto;
+}
+#nav-first{
+    border: 6px solid white;
+    height: 30px;
+    background-color: dimgray;
+}
+h2{
+    color: purple;
+    position: absolute;
+    text-transform: capitalize;
+    top: -5px;
+    word-spacing: 8px;
+}
+#nav-second{
+    height: 660px;
+    border: 6px solid white;
+    background-color: dimgray;
+
+}
+section{
+    height: 640px;
+    width: 300px;
+    margin-left: 30px;
+    border: 6px solid white;
+    background-color: white;
+
+}
+#im {
+    text-transform: capitalize;
+}
+#me{
+    height: 280px;
+    width: 300px;
+}
+#my{
+    height: 280px;
+    width: 300px;
+    margin-top: 30px;
+}
+ #third{
+    position: absolute;
+    top: 60px;
+    margin-left: 400px;
+} 
+
+
+ button{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: darkblue;
+    border-radius: 20px;
+    font-size: 15px;
+    border: 2px solid black;
+} 
